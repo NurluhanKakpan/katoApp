@@ -251,6 +251,10 @@ public class KatoInfoService : IKatoInfoService
     private static List<string> GetLowLevelCodes(string code, List<string> katoCodesFromDb)
     {
         var newCode = code.TrimEnd('0');
+        if (newCode.Length == 9)
+        {
+            return new List<string>();
+        }
         if (newCode.Length % 2 ==  1)
         {
             newCode += "0";
