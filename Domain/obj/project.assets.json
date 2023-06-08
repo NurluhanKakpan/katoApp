@@ -1067,11 +1067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nurlu\\RiderProjects\\Solution1\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\nurlu\\RiderProjects\\katoApp\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\nurlu\\RiderProjects\\Solution1\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\nurlu\\RiderProjects\\katoApp\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\nurlu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nurlu\\RiderProjects\\Solution1\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\nurlu\\RiderProjects\\katoApp\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nurlu\\AppData\\Roaming\\NuGet\\NuGet.Config"

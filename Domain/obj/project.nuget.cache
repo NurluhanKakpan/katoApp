@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WNMoxKbt2BaxMWp028tqPynwahh6oriJP1Rfa8VM+C22c1JqTk+lRK8DRSUXdRG7iz3I+9VB6T8lZChN1gK4TA==",
+  "dgSpecHash": "NWXl1ipKqFh71DtiikMwPnKMqNeUNvyPw+2V26plMo0eFO1v1jIaDgeEcMyF2QBYBqCrlYo/yteMMtLbYC5zEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nurlu\\RiderProjects\\Solution1\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\nurlu\\RiderProjects\\katoApp\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nurlu\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\nurlu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.2\\fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",

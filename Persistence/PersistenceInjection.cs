@@ -1,5 +1,5 @@
-﻿using Application;
-using Application.Services;
+﻿using Application.Interfaces;
+using Application.Services.KatoInfoService;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
